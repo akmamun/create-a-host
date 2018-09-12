@@ -12,7 +12,7 @@ yourdomain.conf
 ```
 
 
-# 3. Copy paste this codes and save. 
+# 3. Copy paste this codes and save
 - To open file type terminal
 
 ```php
