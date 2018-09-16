@@ -68,7 +68,7 @@ sudo nano yourdomain.conf
 ```php
   sudo nano /etc/hosts 
 ```
-## In 127.0.1.1 line add your domain name 'yourservername', here as same as server name previously write and save
+## In 127.0.1.1 line add your domain name 'yourservername', same as server name which, previously write and save it
 
 
 # 5. Now, active site
